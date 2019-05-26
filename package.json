@@ -1,0 +1,12 @@
+{
+    "name": "Node-Red_File_charts",
+    "description": "Charts looking at frequency of files by date",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_Deepwater-PC.json",
+            "credentialsFile": "flows_Deepwater-PC_cred.json"
+        }
+    }
+}
